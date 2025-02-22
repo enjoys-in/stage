@@ -9,6 +9,8 @@
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
+    "@stage/eslint": "*",
+    "@stage/tsconfig": "*",
     "prettier": "^3.5.0",
     "turbo": "^2.4.2",
     "typescript": "5.7.3"
