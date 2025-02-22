@@ -1,0 +1,1 @@
+export * from "@stage/ui/tailwind.config";
